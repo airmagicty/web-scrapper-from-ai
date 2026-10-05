@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         WebScrabberFull
+// @name         Web Scrabber [Full Version]
 // @description  Advanced client-side activity logger (Network, Events, Storage State) and recursive script dependency crawler.
-// @author       Your Name / Developer
+// @author       airmagicty
 // @version      1.0.0
 // @license      MIT
 // ==UserScript==

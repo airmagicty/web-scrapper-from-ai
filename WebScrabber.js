@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         WebScrabber
+// @name         Web Scrabber [Lite Version]
 // @description  Basic client-side network interceptor and JSON logger for fetch and XHR requests.
-// @author       Your Name / Developer
+// @author       airmagicty
 // @version      1.0.0
 // @license      MIT
 // ==UserScript==
